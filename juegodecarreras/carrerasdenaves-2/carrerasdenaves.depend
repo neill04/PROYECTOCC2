@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1690960649 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\main.cpp
+	<allegro.h>
+	<iostream>
+	"constantes.h"
+	"menu.h"
+	"nave.h"
+	"pista.h"
+	"enemy.h"
+	"proyectil.h"
+	"colisiones.h"
+	<vector>
+	<cstdlib>
+	<cassert>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<memory>
+
+1690944538 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\nave.h
+	<allegro.h>
+	<vector>
+	"enemy.h"
+	"proyectil.h"
+	"constantes.h"
+
+1690941672 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\nave.cpp
+	"nave.h"
+	"constantes.h"
+	"proyectil.h"
+	"colisiones.h"
+	<cmath>
+
+1690616147 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\pista.cpp
+	"pista.h"
+	"constantes.h"
+	<cstdlib>
+
+1690351623 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\pista.h
+	<allegro.h>
+	"constantes.h"
+
+1690882602 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\constantes.h
+
+1690960253 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\enemy.h
+	<allegro.h>
+	<memory>
+	<vector>
+	"proyectil.h"
+
+1690960875 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\enemy.cpp
+	"enemy.h"
+	"constantes.h"
+	<cmath>
+
+1690960962 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\proyectil.cpp
+	"proyectil.h"
+
+1690960833 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\proyectil.h
+	<allegro.h>
+
+1690617349 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\colisiones.h
+	"nave.h"
+	"pista.h"
+
+1690883726 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\menu.h
+	<memory>
+	<vector>
+	<string>
+	"constantes.h"
+	"allegro.h"
+
+1690883736 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\carrerasdenaves\menu.cpp
+	"menu.h"
+	<allegro.h>
+	<allegro/font.h>
+	<memory>
+	<iostream>
+
+1691547431 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\enemy.cpp
+	"enemy.h"
+	"constantes.h"
+	<cmath>
+
+1691552607 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\enemy.h
+	<allegro.h>
+	<memory>
+	<vector>
+	"proyectil.h"
+
+1691471764 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\proyectil.h
+	<allegro.h>
+
+1690882602 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\constantes.h
+
+1691553238 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\main.cpp
+	<allegro.h>
+	<iostream>
+	"constantes.h"
+	"menu.h"
+	"nave.h"
+	"pista.h"
+	"enemy.h"
+	"proyectil.h"
+	"colisiones.h"
+	"gamecontroller.h"
+	<vector>
+	<cstdlib>
+	<cassert>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<memory>
+	<ctime>
+
+1690883726 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\menu.h
+	<memory>
+	<vector>
+	<string>
+	"constantes.h"
+	"allegro.h"
+
+1691478969 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\nave.h
+	<allegro.h>
+	<vector>
+	"enemy.h"
+	"proyectil.h"
+	"constantes.h"
+	"proyectile.h"
+
+1690961157 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\pista.h
+	<allegro.h>
+	"constantes.h"
+
+1690617349 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\colisiones.h
+	"nave.h"
+	"pista.h"
+
+1690883736 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\menu.cpp
+	"menu.h"
+	<allegro.h>
+	<allegro/font.h>
+	<memory>
+	<iostream>
+
+1691546542 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\nave.cpp
+	"nave.h"
+	"constantes.h"
+	"proyectil.h"
+	"colisiones.h"
+	"enemy.h"
+	<cmath>
+
+1690616147 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\pista.cpp
+	"pista.h"
+	"constantes.h"
+	<cstdlib>
+
+1691471764 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\proyectil.cpp
+	"proyectil.h"
+
+1690991055 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\proyectilmejorado.h
+	"proyectil.h"
+
+1690991055 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\proyecitlmejorado.cpp
+	"proyectilmejorado.h"
+
+1691478926 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\proyectile.cpp
+	"proyectile.h"
+
+1691478915 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\proyectile.h
+	<allegro.h>
+
+1691553317 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\gamecontroller.h
+	<vector>
+	<allegro.h>
+	"scorecounter.h"
+
+1691553172 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\gamecontroller.cpp
+	<cstdlib>
+	<algorithm>
+	"gamecontroller.h"
+	"enemy.h"
+	"constantes.h"
+	"scorecounter.h"
+
+1691551973 source:c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\scorecounter.cpp
+	"scorecounter.h"
+
+1691551980 c:\users\neill\documents\unsa\3er aÑo\ccii\juegodecarreras\versiones\carrerasdenaves-2\scorecounter.h
+
